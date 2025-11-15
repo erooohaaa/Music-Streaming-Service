@@ -1,4 +1,4 @@
-package org.example.facade;
+package music.facade;
 
 public class PlayerService {
 }
